@@ -10,7 +10,7 @@ public class Ejercicio02_encuentro1_al_3 {
         
         System.out.println("Ejercicio02 con github");
         
-        System.out.println("Esta linea la agrego el colaborador.");
+        System.out.println("Esta linea la agrego el colaborador 01.");
     }
     
 }
